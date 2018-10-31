@@ -1,0 +1,37 @@
+/*-----------------------------*/
+/* Deeol.com CSS 2018 10/31/18 */
+/* TABLE OF CONTENTS */
+
+/*-----------------------------*/
+
+/* ELEMENTS */
+
+h1 {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+};
+
+h2 {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+};
+
+h3 {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+};
+
+h4 {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+p {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+a {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  color: black;
+  text-decoration: underline;
+}
+
+/* ID'S */
+
+/* CLASSES */
